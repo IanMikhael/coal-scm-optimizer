@@ -1,4 +1,4 @@
-Resource: https://proceedings.unisba.ac.id/index.php/BCSBM/article/view/17916
+Referensi: https://proceedings.unisba.ac.id/index.php/BCSBM/article/view/17916
 
 # 🚀 Coal SCM Optimizer (Operational Control Tower)
 
